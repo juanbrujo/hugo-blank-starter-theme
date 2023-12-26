@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Hugo Blank Starter Theme"
+license = "MIT"
+licenselink = "https://github.com/juanbrujo/hugo-blank-starter-theme/blob/master/hugo-blank-starter-theme/LICENSE"
+description = "Blank Hugo theme to start your own"
+source_repo = "git@github.com:juanbrujo/hugo-blank-starter-theme.git"
+homepage = "https://github.com/juanbrujo/hugo-blank-starter-theme/"
+tags = ["minimal", "starter", "blank"]
+min_version = "0.74"
+
+[author]
+  name = "Jorge Epuñan"
+  homepage = "https://github.com/juanbrujo/"
